@@ -1,0 +1,3 @@
+MyFinance
+Commit de origem: b232f772e8974b5f2c7bfba6d3c6266d54977065
+Exportação: código da versão publicada em 15/10/2026, com edição e exclusão de gastos e receitas.
